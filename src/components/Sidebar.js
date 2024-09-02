@@ -1,5 +1,5 @@
 import React from 'react'
-import { Container, ListGroup, ListGroupItem, Row, Col } from 'reactstrap';
+import { Container, ListGroup } from 'reactstrap';
 import { Link } from 'react-router-dom';
 //import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 //import { faHouse } from '@awesome.me/kit-KIT_CODE/icons'
