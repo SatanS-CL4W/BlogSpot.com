@@ -2,7 +2,7 @@
 import './App.css';
 import AddBlog from './components/AddBlog';
 import ViewBlogs from './components/ViewBlogs';
-import Course from './components/Course';
+//import Course from './components/Course';
 //import { Button } from 'reactstrap';
 import { ToastContainer } from 'react-toastify';
 import Home from "./components/Home";
